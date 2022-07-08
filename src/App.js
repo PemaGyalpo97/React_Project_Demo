@@ -14,6 +14,9 @@ function App() {
         >
           Organization Management System
         </a>
+        <p>
+          By Pema Gyalpo
+        </p>
       </header>
     </div>
   );
