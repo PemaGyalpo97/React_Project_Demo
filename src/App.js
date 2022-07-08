@@ -9,13 +9,11 @@ function App() {
         <p>
           Manage your organization easily with <b>O M S</b>
         </p>
-        <a
-          className="App-link"
-        >
-          Organization Management System
-        </a>
         <p>
-          By Pema Gyalpo
+          Organization Management System
+        </p>
+        <p>
+          <i>By Pema Gyalpo</i>
         </p>
       </header>
     </div>
