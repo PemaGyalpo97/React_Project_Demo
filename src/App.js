@@ -9,9 +9,7 @@ function App() {
         <p>
           Manage your organization easily with <b>O M S</b>
         </p>
-        <a
-          className="App-link"
-        >
+        <a>
           Organization Management System
         </a>
         <p>
