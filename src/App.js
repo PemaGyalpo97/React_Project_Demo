@@ -13,7 +13,7 @@ function App() {
           Organization Management System
         </p>
         <p>
-          <i>By Pema Gyalpo</i>
+          <i>By Dewas and Gyalpo</i>
         </p>
       </header>
     </div>
